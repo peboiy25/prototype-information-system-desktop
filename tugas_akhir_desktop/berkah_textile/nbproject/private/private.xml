@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/dao/DetailFKeluarDao.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/dao/WarnaDao.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/main/App.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/view/UserView.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/dao/BarangDao.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/model/Warna.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/controller/UserController.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/view/StokView.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/model/DetailFMasuk.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/dao/DetailFMasukDao.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/dao/FKeluarDao.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/controller/WarnaController.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/model/DetailFKeluar.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/service/Impl/MasterServiceImpl.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/service/FakturService.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/service/Impl/FakturServiceImpl.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/model/User.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/controller/BarangController.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/view/FKeluarView.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/dao/FMasukDao.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/view/BarangView.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/controller/FMasukController.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/model/FKeluar.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/view/MenuView.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/service/MasterService.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/model/Barang.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/config/Koneksi.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/view/HasilCariView.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/view/FMasukView.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/model/FMasuk.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/controller/FKeluarController.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/dao/UserDao.java</file>
+            <file>file:/D:/Kuliah/Semester%203/Pemrograman%20Berbasis%20Desktop/berkah_textile/src/view/LoginView.java</file>
+        </group>
+    </open-files>
+</project-private>
